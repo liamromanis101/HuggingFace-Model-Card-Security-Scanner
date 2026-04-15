@@ -19,6 +19,8 @@ If you would like a copy of the scanner, or if you have a specific requirement â
 
 Requests for custom scan outputs will be considered on a case-by-case basis.
 
+An example CSV output is included with this repository... 
+
 ---
 
 ## What It Does
