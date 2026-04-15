@@ -5,6 +5,7 @@ A Python-based security and safety scanner for HuggingFace model cards. It queri
 This tool was created in response to a growing concern about the lack of scrutiny applied to open-source AI models before they are embedded into production systems. The findings from an initial scan — and the reasoning behind building this tool — are documented in the accompanying article:
 
 > **[The Hidden Risks in Your AI Supply Chain: What Model Cards Reveal About the Models You Trust](#)**
+> https://medium.com/@liamromanis101/the-hidden-risks-in-your-ai-supply-chain-what-model-cards-reveal-about-the-models-you-trust-83500801bea3
 
 ---
 
